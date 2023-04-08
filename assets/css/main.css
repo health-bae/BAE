@@ -13,7 +13,7 @@
 /* Colors */
 :root {
   --color-default: #222222;
-  --color-primary: #E64D7D;
+  --color-primary: #b13c61;
   --color-secondary: #FDE6ED;
 }
 
@@ -806,7 +806,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action .container {
-  background: url("../img/bg.png") center center;
+  background: url("../img/bc4.png") center center;
   background-size: cover;
   padding: 100px 60px;
   border-radius: 15px;
@@ -821,7 +821,7 @@ section {
 }
 
 .call-to-action p {
-  color: #782740;
+  color: #b13c61;
   font-size: 35px;
   margin-bottom: 20px;
 }
@@ -990,7 +990,7 @@ section {
 }
 
 .services .service-item:hover .icon:before {
-  background: #FF6B99;
+  background: #b13c61;
 }
 
 .services .service-item:hover h3 {
@@ -1864,7 +1864,7 @@ section {
 .hero {
   width: 100%;
   position: relative;
-  background: var(--color-primary);
+  background: #8D2D4B;
   padding: 60px 0 0 0;
 }
 
@@ -2552,8 +2552,8 @@ section {
 --------------------------------------------------------------*/
 .footer {
   font-size: 14px;
-  background-color: var(--color-primary);
-  padding: 50px 0;
+  background-color: #8D2D4B;
+  padding: 30px 0;
   color: white;
 }
 
